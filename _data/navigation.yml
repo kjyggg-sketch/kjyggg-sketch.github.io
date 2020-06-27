@@ -4,6 +4,8 @@ main:
      url: https://kjyggg-sketch.github.io
    - title: "About"
      url: https://kjyggg-sketch.github.io/about/
+   - title: "Category"
+     url: https://kjyggg-sketch.github.io/categories/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
